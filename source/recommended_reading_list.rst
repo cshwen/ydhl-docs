@@ -84,6 +84,7 @@ Zhanpeng Chen <lowstz@gmail.com> 整理。
   
 * `The C Programming Language (Second edition)`_ Brian W. Kernighan and Dennis M. Ritchie \
   ( 中译版：`C程序设计语言`_ )
+
   C语言作者写的书，不推荐用它入门，但是有机会的话你至少应该看一遍，里面的习题\
   也不容易，至少写出没什么bug的版本就是巨大的挑战。
 
