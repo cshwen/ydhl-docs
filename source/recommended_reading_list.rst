@@ -23,10 +23,11 @@ Zhanpeng Chen <lowstz@gmail.com> 整理。
 * 人生第一次表白被妹子理由充分地拒绝了:(
 * 妹子拒绝我后给我推荐了设计资源，结果我却推荐了比她推荐的更靠谱。
    1. 自大一点的说法：即便是我不擅长的领域，我对于信息和数据的敏感不比专业的差。
-   2. 昨晚和梁老板扯淡了下。
+   2. 昨晚和梁老板扯淡了下，团队需要一些Howto文档。
    3. 这学期有大量文档要写，拿这东西练手了。
 
 * **其他东西我会慢慢加上，如果觉得文档中哪部分写不太合理，欢迎邮件来战。**
+* btw: 叫我大神的都mjj
 
 ******************
 对于编程初学者
@@ -59,15 +60,62 @@ Zhanpeng Chen <lowstz@gmail.com> 整理。
    约翰.卡马克是我膜拜的众神之一。
 
 
-******************
-对于进阶人士
-******************
-   
+***********************
+编程语言相关的一些推荐
+***********************
+1. C语言
+----------------------
+
+本着良心说话，我最希望你去看下 StackOverflow 上的 `'C' tag wiki`_ , 上面指南会\
+和FAQ什么的会比我说的更靠谱和详细。
+
+下面是我一些个人推荐（愚见）：
+
+
+* `Learn C The Hard Way`_ - Zed Shaw
+  
+  和前面提到的(Learn Python The Hard Way)的作者是同一人，这是一本C语言的入门书，\
+  但是和作者说的一样，这本书比其Python要难上不少。
+  推荐这本书的另一个原因这本书最后几章名字也让那些有多年C编程经验的行业工作者吓尿。
+  
+* `Linux C编程一站式学习`_ - 宋劲杉
+  
+  国人写的书，如果你觉得上面那本全是英文你看不懂的话，书还不错。
+  
+* `The C Programming Language (Second edition)`_ Brian W. Kernighan and Dennis M. Ritchie \
+  ( 中译版：`C程序设计语言`_ )
+  C语言作者写的书，不推荐用它入门，但是有机会的话你至少应该看一遍，里面的习题\
+  也不容易，至少写出没什么bug的版本就是巨大的挑战。
+
+
+2. Java
+----------------------
+
+“我觉得 java web （ssh）开发的人 和 我等拿 java 做后端开发替代c++的程序员真的是两个世界的。” —— `hoterran`_
+
+* `Head First Java`_ ( 中译版 `深入浅出Java`_ )
+  
+  `@Fatal1tyV`_ 恶犬大大推荐的Java入门书。
+  
+* `Core Java`_ ( 中译版 `JAVA核心技术（卷1）`_ )
+  
+  入门书籍，从开发环境开始一步步教你如何Java编程，偏重于讲解Java技术，举例说明\
+  了大量API的使用,对于一部分人来说，这可能是一本无聊的书。
+
+* `Thinking in Java`_ ( 中译版 `Java编程思想 （第4版）`_ )
+  
+
+3. Python
+----------------------
+
+**********************
+操作系统相关的推荐
+**********************
+
 
 ***************************
 FAQ (常见问题解答）
 ***************************
-
 
 .. _`How To Become A Hacker`: http://www.catb.org/esr/faqs/hacker-howto.html
 .. _`《如何成为一名黑客》`: http://translations.readthedocs.org/en/latest/hacker_howto.html
@@ -79,3 +127,19 @@ FAQ (常见问题解答）
 .. _`《DOOM启世录》`: http://book.douban.com/subject/1152971/
 .. _`约翰·卡马克`: http://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E5%8D%A1%E9%A6%AC%E5%85%8B
 .. _`DOOM3`: https://github.com/TTimo/doom3.gpl
+
+.. _`'C' tag wiki`: http://stackoverflow.com/tags/c/info
+.. _`Learn C The Hard Way`: http://c.learncodethehardway.org/
+.. _`Linux C编程一站式学习`: http://book.douban.com/subject/4141733/
+.. _`The C Programming Language (Second edition)` : http://book.douban.com/subject/1236999/
+.. _`C程序设计语言` : http://book.douban.com/subject/1139336/
+
+.. _`hoterran`: http://www.douban.com/people/hoterran/status/1222192673/
+.. _`Head First Java`: http://book.douban.com/subject/1458692/
+.. _`深入浅出Java`: http://book.douban.com/subject/2000732/
+.. _`@Fatal1tyV` : https://twitter.com/Fatal1tyV
+.. _`Core Java` : http://book.douban.com/subject/1441161/
+.. _`JAVA核心技术（卷1）`: http://book.douban.com/subject/3146174/
+.. _`Thinking in Java`: http://book.douban.com/subject/1474824/
+.. _`Java编程思想 （第4版）`: http://book.douban.com/subject/2130190/
+
