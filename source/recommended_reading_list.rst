@@ -7,7 +7,7 @@ Zhanpeng Chen <lowstz@gmail.com> 整理。
 +--------------+----------------+-----------+
 | 版本更新历史                              |
 +==============+================+===========+
-| 版本 0.1    | 2011-02-07     | lowstz     |
+| 版本 0.1    | 2013-09-22     | lowstz     |
 +--------------+----------------+-----------+
 | 初始版本                                  |
 +--------------+----------------+-----------+
@@ -25,11 +25,11 @@ Zhanpeng Chen <lowstz@gmail.com> 整理。
 ******************
 对于编程初学者
 ******************
-* `How To Become A Hacker`_ (中译版:《`如何成为一名黑客`_》)
+* `How To Become A Hacker`_ ( 中译版: `《如何成为一名黑客》`_ )
   
    “出于兴趣，解决某个难题，不管它有没有用，这就是黑客。” -- Richard Stallman
 
-* `Learn Python The Hard Way`_ (中译版:《`笨方法学 Python`_》)
+* `Learn Python The Hard Way`_ ( 中译版: `《笨方法学 Python》`_ )
   
    “《笨办法学 Python》(Learn Python The Hard Way)是 Zed Shaw 编写的一本 Python\
    入门书籍。适合对计算机了解不多，没有学过编程，但对编程感兴趣的朋友学习使用。\
@@ -39,11 +39,11 @@ Zhanpeng Chen <lowstz@gmail.com> 整理。
 
    作为设计师也希望自己能写一些东西的话，这本书是个不错的开始 -- Zhanpeng Chen
 
-* `Teach Yourself Programming in Ten Years`_ (中译版:《`十年学会程序设计`_》)
+* `Teach Yourself Programming in Ten Years`_ ( 中译版: `《十年学会程序设计》`_ )
 
    “这是一篇经典的揭示计算机学习和计算机编程领域浮躁苗头的文章。” -- Eric You XU
 
-* `Masters of Doom`_ (中译版：《`DOOM启世录`_》)
+* `Masters of Doom`_ ( 中译版: `《DOOM启世录》`_ )
 
    如果你有意成为一名游戏开发者，这是一本必读的书之一，如果不是，我也强烈推荐你\
    阅读此书。大多数已读过的读者都清楚这是一本可以一口气读完，而且能令你热血澎湃的传\
@@ -64,12 +64,12 @@ FAQ (常见问题解答）
 
 
 .. _`How To Become A Hacker`: http://www.catb.org/esr/faqs/hacker-howto.html
-.. _`如何成为一名黑客`: http://translations.readthedocs.org/en/latest/hacker_howto.html
+.. _`《如何成为一名黑客》`: http://translations.readthedocs.org/en/latest/hacker_howto.html
 .. _`Learn Python The Hard Way`: http://learnpythonthehardway.org/book/
-.. _`笨方法学 Python`: https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/
+.. _`《笨方法学 Python》`: https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/
 .. _`Teach Yourself Programming in Ten Years`: http://norvig.com/21-days.html
-.. _`十年学会程序设计`: http://blog.youxu.info/21-days/
+.. _`《十年学会程序设计》`: http://blog.youxu.info/21-days/
 .. _`Masters of Doom`: http://book.douban.com/subject/1438119/
-.. _`DOOM启世录`: http://book.douban.com/subject/1152971/
+.. _`《DOOM启世录》`: http://book.douban.com/subject/1152971/
 .. _`约翰·卡马克`: http://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E5%8D%A1%E9%A6%AC%E5%85%8B
 .. _`DOOM3`: https://github.com/TTimo/doom3.gpl
